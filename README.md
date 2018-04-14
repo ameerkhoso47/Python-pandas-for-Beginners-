@@ -1,1 +1,1 @@
-# Creating-Reading-Writing-Data-with-Pyrhon
+# Creating-Reading-Writing-Data-with-Python
